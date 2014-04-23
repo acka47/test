@@ -1,0 +1,27 @@
+{
+  "title": "Share out board",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "11": {
+      "title": "Data sources/\nCooperations",
+      "id": 3
+    },
+    "21": {
+      "title": "Expectations",
+      "id": 4
+    },
+    "31": {
+      "title": "Sign up as potential editors",
+      "id": 6
+    },
+    "-10": {
+      "title": "Interface",
+      "id": 7
+    },
+    "-5": {
+      "title": "Data Model",
+      "id": 2
+    }
+  }
+}
